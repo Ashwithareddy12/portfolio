@@ -12,7 +12,10 @@ const Home = () => {
                         I'm a Front End Developer
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I am currently pursuing my 3rd year at Vellore Institute Of Technology, Amravati. I am passionate about problem solving and coding.
+                        I'm a Computer Science student at Vellore Institute of Technology, passionate about coding and using technology to solve real-world problems. Proficient in both Java and Python.
+l've actively participated in extracurricular activities that have broadened my skills and knowledge. I'm a member of the Marketing Team at the Computer Society Of India (CSI) club, where I've learned marketing and communication skills. I also had the privilege of leading a writing team at the Kalki Personality Development Club, further enhancing my leadership and communication abilities.
+I am highly motivated and known for my hardworking nature. I possess the ability to quickly grasp new ideas and concepts, allowing me to adapt to evolving technology trends effectively. I am a perpetual learner, always eager to expand my knowledge.
+I am seeking for challenging and rewarding opportunities to apply my skills and grow as a Computer Science engineer.
                     </p>
 
                     <div>
